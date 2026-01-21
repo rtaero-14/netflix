@@ -41,3 +41,6 @@ Par exemple : Un carrousel "Tendances actuelles", un carrousel "Horreur", un car
 Dans le footer :
 - Les contacts du site (réseaux sociaux)
 - Le centre d'aide (contact support)
+
+### Voici une maquette du rendu de la page d'accueil :
+https://www.figma.com/make/lPFnUIW8NSjbeYubkFct8W/Netflix-Homepage-Design?p=f&t=PrwwRRDTyZt38Guj-0&fullscreen=1
