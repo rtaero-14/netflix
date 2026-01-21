@@ -1,7 +1,7 @@
 # netflix
 ##### Je suis Reia TAERO, étudiant en 2ème année de BUT Informatique à l'IUT du Limousin, à Limoges.
 
-Je suis débutant en JavaScript et lors du premier TP, j'ai appris à :
+Je suis débutant en JavaScript et lors du premier TP de "Complément Web", j'ai appris à :
 
 - Déclarer des variables et à leur affecter une valeur
 - Réaliser des affichages dans la console
