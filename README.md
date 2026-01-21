@@ -20,7 +20,7 @@ D'après le nom "Netflix" pour ce TD (La plateforme de streaming payante interna
 - Logique : Une grande partie du back-end => La création des outils utilisés par le front-end pour gérer les données + la gestion des données à envoyer (Response) ou à recevoir (Request)
 - Données : La seconde partie du back-end => La gestion de la base de données contenant toutes les informations du site web.
 
-## Dans le cadre du projet Netflix
+## Dans le cadre du projet Netflix, pour la couche Présentation (Front-End)
 
 ### Pour la page d'accueil
 Dans le header :
@@ -35,8 +35,8 @@ Dans le header :
 
 Dans le body :
 - En haut : Un défilé des séries phares / tendances actuelles
-- Au milieu : Des menus qui défilent horizontalement et proposent des séries ou films à regarder en fonction de critères (menus classés par type)
-Par exemple : Un menu "Tendances actuelles", un menu "Horreur", un menu "Science-Fiction", un menu "Cela pourrait vous plaire", etc.
+- Au milieu : Des carrousels qui défilent horizontalement et proposent des séries ou films à regarder en fonction de critères (carrousels classés par type)
+Par exemple : Un carrousel "Tendances actuelles", un carrousel "Horreur", un carrousel "Science-Fiction", un carrousel "Cela pourrait vous plaire", etc.
 
 Dans le footer :
 - Les contacts du site (réseaux sociaux)
